@@ -13,7 +13,7 @@ library(shiny)
 shinyUI(fluidPage(
 
     # Application title
-    titlePanel("Car mpg affected by weitgh and cylenders"),
+    titlePanel("Car mpg affected by weight and cylinders"),
 
     # Sidebar with a slider input for number of bins
     sidebarLayout(
